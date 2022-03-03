@@ -133,9 +133,9 @@ navegacion["id_sl"] = sl
 print(navegacion)
 #Esto es para guardar el fichero final, comentar si no se usa
 navegacion.to_csv("navegacion_final.csv", index = False)
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
+#© 2022 GitHub, Inc.
+#Terms
+#Privacy
+#Security
+#Status
+#Docs
